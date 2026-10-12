@@ -30,6 +30,7 @@
 
 | Repository | Focus & Architecture | Stack |
 | :--- | :--- | :--- |
+| [**claude-windows-computer-use**](https://github.com/pironjulien/claude-windows-computer-use) | Native Windows OS Computer Use & FastMCP Server for Anthropic Claude (Opus 5.5 & Sonnet 3.5). Background UI Automation across 6 frameworks, Raw Input safety & zero focus hijacking. | `Python` `FastMCP` `Win32/UIA` |
 | [**antigravity-computer-use**](https://github.com/pironjulien/antigravity-computer-use) | SOTA Windows OS Computer Use & Spotlight Companion (`Alt+Space`) for Google Antigravity. High-performance UI Automation 3.0, Set-of-Marks & FastMCP. | `Python` `FastMCP` `UIA 3.0` |
 | [**antigravity-chrome-sidepanel**](https://github.com/pironjulien/antigravity-chrome-sidepanel) | Autonomous Browser Use, form filling & web automation bridge for Google Antigravity. Full Chrome DevTools Protocol (CDP) control & Gemini Side Panel. | `JavaScript` `Chrome CDP` `Native Host` |
 | [**FoldGPT**](https://github.com/pironjulien/FoldGPT) | ChatGPT Desktop and Codex on Galaxy Z Fold. A local Linux ARM64 workspace on Android without root. | `Linux ARM64` `Android` `Shell` |
