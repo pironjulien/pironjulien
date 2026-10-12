@@ -4,7 +4,6 @@
 
 ### FondAIteur • AI Systems & Deterministic Workflows
 
-[![Website](https://img.shields.io/badge/PSI_Studio-julienpiron.com-6366f1?style=for-the-badge&logo=anthropic&logoColor=white)](https://julienpiron.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-julienpiron.fr-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://julienpiron.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julien_Piron-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-piron-a6a011373/)
 [![X](https://img.shields.io/badge/X-@julienpironfr-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/julienpironfr)
