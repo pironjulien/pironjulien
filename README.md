@@ -30,11 +30,11 @@
 
 | Repository | Focus & Architecture | Stack |
 | :--- | :--- | :--- |
-| [**claude-windows-computer-use**](https://github.com/pironjulien/claude-windows-computer-use) | Native Windows OS Computer Use & FastMCP Server for Anthropic Claude (Opus 5.5 & Sonnet 3.5). Background UI Automation across 6 frameworks, Raw Input safety & zero focus hijacking. | `Python` `FastMCP` `Win32/UIA` |
-| [**antigravity-computer-use**](https://github.com/pironjulien/antigravity-computer-use) | SOTA Windows OS Computer Use & Spotlight Companion (`Alt+Space`) for Google Antigravity. High-performance UI Automation 3.0, Set-of-Marks & FastMCP. | `Python` `FastMCP` `UIA 3.0` |
-| [**antigravity-chrome-sidepanel**](https://github.com/pironjulien/antigravity-chrome-sidepanel) | Autonomous Browser Use, form filling & web automation bridge for Google Antigravity. Full Chrome DevTools Protocol (CDP) control & Gemini Side Panel. | `JavaScript` `Chrome CDP` `Native Host` |
+| [**codex-windows-computer-use**](https://github.com/pironjulien/codex-windows-computer-use) | Native Windows OS Computer Use & MTA UIA Helper for OpenAI Codex Desktop. Verified observation trees, zero focus theft & fast action execution. | `Node.js` `C# .NET 8` `Win32/UIA` |
 | [**FoldGPT**](https://github.com/pironjulien/FoldGPT) | ChatGPT Desktop and Codex on Galaxy Z Fold. A local Linux ARM64 workspace on Android without root. | `Linux ARM64` `Android` `Shell` |
-| [**trinity-hackathon**](https://github.com/pironjulien/trinity-hackathon) | Autonomous AI agent designed to balance compute costs and efficiency with self-healing code refinement. | `Python` `Agentic Loops` `Archived` |
+| [**antigravity-computer-use**](https://github.com/pironjulien/antigravity-computer-use) | SOTA Windows OS Computer Use & Spotlight Companion (`Alt+Space`) for Google Antigravity. High-performance UI Automation 3.0, Set-of-Marks & FastMCP. | `Python` `FastMCP` `UIA 3.0` |
+| [**claude-windows-computer-use**](https://github.com/pironjulien/claude-windows-computer-use) | Native Windows OS Computer Use & FastMCP Server for Anthropic Claude (Opus 5.5 & Sonnet 3.5). Background UI Automation across 6 frameworks, Raw Input safety & zero focus hijacking. | `Python` `FastMCP` `Win32/UIA` |
+| [**antigravity-chrome-sidepanel**](https://github.com/pironjulien/antigravity-chrome-sidepanel) | Autonomous Browser Use, form filling & web automation bridge for Google Antigravity. Full Chrome DevTools Protocol (CDP) control & Gemini Side Panel. | `JavaScript` `Chrome CDP` `Native Host` |
 
 ---
 
@@ -42,7 +42,7 @@
 
 ```text
 Languages  : Python 3.12+, TypeScript, JavaScript, Rust, C#, PowerShell
-AI & LLMs  : Claude 3.5 / 5.5 (Opus & Sonnet), Gemini 2.5 Flash, GPT-4o / o1
+AI & LLMs  : Claude Opus 5.5, GPT-6 Astra & Sol 6.1, Gemini 4 Argon & 3.8 Flash
 Protocols  : Model Context Protocol (MCP), Chrome DevTools Protocol (CDP)
 Windows OS : Windows UI Automation 3.0, Win32 API, Hardware SendInput, WebView2
 Infra & CI : Local Sandboxing, Deterministic DAG Workflows, Git Sovereign Sync
