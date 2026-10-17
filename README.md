@@ -30,6 +30,7 @@
 
 | Repository | Focus & Architecture | Stack |
 | :--- | :--- | :--- |
+| [**android-computer-use**](https://github.com/pironjulien/android-computer-use) | NexusAndroid: Android computer use for AI agents over plain ADB. One MCP server shared by Claude Code, Codex and Antigravity; no root, no app on the phone, guardrails built in. | `Python` `MCP` `ADB` |
 | [**codex-windows-computer-use**](https://github.com/pironjulien/codex-windows-computer-use) | Native Windows OS Computer Use & MTA UIA Helper for OpenAI Codex Desktop. Verified observation trees, zero focus theft & fast action execution. | `Node.js` `C# .NET 8` `Win32/UIA` |
 | [**FoldGPT**](https://github.com/pironjulien/FoldGPT) | ChatGPT Desktop and Codex on Galaxy Z Fold. A local Linux ARM64 workspace on Android without root. | `Linux ARM64` `Android` `Shell` |
 | [**antigravity-computer-use**](https://github.com/pironjulien/antigravity-computer-use) | SOTA Windows OS Computer Use & Spotlight Companion (`Alt+Space`) for Google Antigravity. High-performance UI Automation 3.0, Set-of-Marks & FastMCP. | `Python` `FastMCP` `UIA 3.0` |
