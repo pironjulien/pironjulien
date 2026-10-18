@@ -30,12 +30,12 @@
 
 | Repository | Focus & Architecture | Stack |
 | :--- | :--- | :--- |
-| [**android-computer-use**](https://github.com/pironjulien/android-computer-use) | NexusAndroid: Android computer use for AI agents over plain ADB. One MCP server shared by Claude Code, Codex and Antigravity; no root, no app on the phone, guardrails built in. | `Python` `MCP` `ADB` |
-| [**codex-windows-computer-use**](https://github.com/pironjulien/codex-windows-computer-use) | Native Windows OS Computer Use & MTA UIA Helper for OpenAI Codex Desktop. Verified observation trees, zero focus theft & fast action execution. | `Node.js` `C# .NET 8` `Win32/UIA` |
+| [**NexusAndroid**](https://github.com/pironjulien/android-computer-use) | Android computer use for AI agents over plain ADB. One MCP server shared by Claude Code, Codex and Antigravity; no root, no app on the phone, guardrails built in. [Project page](https://julienpiron.fr/nexusandroid/) | `Python` `MCP` `ADB` |
+| [**NexusWindows for Codex**](https://github.com/pironjulien/codex-windows-computer-use) | Windows computer use in the background for the OpenAI Codex desktop app: an add-on to Codex's own Computer Use, every action checked against a postcondition. [Project page](https://julienpiron.fr/nexuswindows/) | `Node.js` `C# .NET 8` `Win32/UIA` |
 | [**FoldGPT**](https://github.com/pironjulien/FoldGPT) | ChatGPT Desktop and Codex on Galaxy Z Fold. A local Linux ARM64 workspace on Android without root. | `Linux ARM64` `Android` `Shell` |
-| [**antigravity-computer-use**](https://github.com/pironjulien/antigravity-computer-use) | SOTA Windows OS Computer Use & Spotlight Companion (`Alt+Space`) for Google Antigravity. High-performance UI Automation 3.0, Set-of-Marks & FastMCP. | `Python` `FastMCP` `UIA 3.0` |
-| [**claude-windows-computer-use**](https://github.com/pironjulien/claude-windows-computer-use) | Native Windows OS Computer Use & FastMCP Server for Anthropic Claude (Opus 5.5 & Sonnet 3.5). Background UI Automation across 6 frameworks, Raw Input safety & zero focus hijacking. | `Python` `FastMCP` `Win32/UIA` |
-| [**antigravity-chrome-sidepanel**](https://github.com/pironjulien/antigravity-chrome-sidepanel) | Autonomous Browser Use, form filling & web automation bridge for Google Antigravity. Full Chrome DevTools Protocol (CDP) control & Gemini Side Panel. | `JavaScript` `Chrome CDP` `Native Host` |
+| [**NexusWindows for Antigravity**](https://github.com/pironjulien/antigravity-windows-computer-use) | Windows computer use in the background for Google Antigravity (Gemini): look, then act in one verified batch, guard rails in the code. [Project page](https://julienpiron.fr/nexuswindows/) | `Python` `MCP` `Win32/UIA` |
+| [**NexusWindows for Claude**](https://github.com/pironjulien/claude-windows-computer-use) | Windows computer use in the background as an MCP server for Claude Desktop and Claude Code, on any plan that allows local MCP servers. [Project page](https://julienpiron.fr/nexuswindows/) | `Python` `MCP` `Win32/UIA` |
+| [**NexusBrowser**](https://github.com/pironjulien/chrome-computer-use) | The user's real Chrome driven by AI agents (Antigravity, Claude, Codex) in background tabs, through a local authenticated bridge and one MCP server. [Project page](https://julienpiron.fr/nexusbrowser/) | `JavaScript` `Chrome CDP` `Python` |
 
 ---
 
