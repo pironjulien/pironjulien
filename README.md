@@ -30,11 +30,11 @@
 
 | Repository | What it does | Stack |
 | :--- | :--- | :--- |
-| [**NexusWindows for Claude**](https://github.com/pironjulien/claude-windows-computer-use) | Windows computer use in the background as an MCP server for Claude Desktop and Claude Code, on any plan that allows local MCP servers. [Page](https://julienpiron.fr/nexuswindows/claude/) | `Python` `MCP` `Win32/UIA` |
-| [**NexusWindows for Codex**](https://github.com/pironjulien/codex-windows-computer-use) | An add-on to Codex's own Computer Use on Windows: actions go through the background first, each one checked against a postcondition. [Page](https://julienpiron.fr/nexuswindows/codex/) | `Node.js` `C# .NET 8` `Win32/UIA` |
-| [**NexusWindows for Antigravity**](https://github.com/pironjulien/antigravity-windows-computer-use) | Windows computer use in the background for Google Antigravity (Gemini): look, then act in one verified batch, guard rails in the code. [Page](https://julienpiron.fr/nexuswindows/antigravity/) | `Python` `MCP` `Win32/UIA` |
-| [**NexusBrowser**](https://github.com/pironjulien/chrome-computer-use) | The user's real Chrome driven by AI agents (Antigravity, Claude, Codex) in background tabs, through a local authenticated bridge and one MCP server. [Page](https://julienpiron.fr/nexusbrowser/) | `JavaScript` `Chrome CDP` `Python` |
-| [**NexusAndroid**](https://github.com/pironjulien/android-computer-use) | Android computer use over plain ADB: one MCP server shared by Claude Code, Codex and Antigravity; no root, no app on the phone. [Page](https://julienpiron.fr/nexusandroid/) | `Python` `MCP` `ADB` |
+| [**NexusWindows for Claude**](https://github.com/pironjulien/NexusWindows-Claude) | Windows computer use in the background as an MCP server for Claude Desktop and Claude Code, on any plan that allows local MCP servers. [Page](https://julienpiron.fr/nexuswindows/claude/) | `Python` `MCP` `Win32/UIA` |
+| [**NexusWindows for Codex**](https://github.com/pironjulien/NexusWindows-Codex) | An add-on to Codex's own Computer Use on Windows: actions go through the background first, each one checked against a postcondition. [Page](https://julienpiron.fr/nexuswindows/codex/) | `Node.js` `C# .NET 8` `Win32/UIA` |
+| [**NexusWindows for Antigravity**](https://github.com/pironjulien/NexusWindows-Antigravity) | Windows computer use in the background for Google Antigravity (Gemini): look, then act in one verified batch, guard rails in the code. [Page](https://julienpiron.fr/nexuswindows/antigravity/) | `Python` `MCP` `Win32/UIA` |
+| [**NexusBrowser**](https://github.com/pironjulien/NexusBrowser) | The user's real Chrome driven by AI agents (Antigravity, Claude, Codex) in background tabs, through a local authenticated bridge and one MCP server. [Page](https://julienpiron.fr/nexusbrowser/) | `JavaScript` `Chrome CDP` `Python` |
+| [**NexusAndroid**](https://github.com/pironjulien/NexusAndroid) | Android computer use over plain ADB: one MCP server shared by Claude Code, Codex and Antigravity; no root, no app on the phone. [Page](https://julienpiron.fr/nexusandroid/) | `Python` `MCP` `ADB` |
 
 **Other projects**
 
