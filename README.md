@@ -15,17 +15,20 @@
 
 ### Public repositories
 
-**Nexus family: computer use for Claude, Codex and Antigravity**
+**Nexus family: Claude, Codex and Antigravity at work on your PC, Chrome and phone**
 
 | Repository | What it does | Stack |
 | :--- | :--- | :--- |
+| [**NexusSystem**](https://apps.microsoft.com/detail/9NSH2P3QLWT1) | Installs and keeps up to date, in one click, the Nexus tools that give your AIs the use of your PC, phone and Chrome in the background. No account, no ads, no telemetry. On the Microsoft Store. [Page](https://julienpiron.fr/nexussystem/) | `Windows` `Microsoft Store` |
 | [**NexusWindows for Claude**](https://github.com/pironjulien/NexusWindows-Claude) | Windows computer use in the background as an MCP server for Claude Desktop and Claude Code, on any plan that allows local MCP servers. [Page](https://julienpiron.fr/nexuswindows/claude/) | `Python` `MCP` `Win32/UIA` |
 | [**NexusWindows for Codex**](https://github.com/pironjulien/NexusWindows-Codex) | An add-on to Codex's own Computer Use on Windows: actions go through the background first, each one checked against a postcondition. [Page](https://julienpiron.fr/nexuswindows/codex/) | `Node.js` `C# .NET 8` `Win32/UIA` |
 | [**NexusWindows for Antigravity**](https://github.com/pironjulien/NexusWindows-Antigravity) | Windows computer use in the background for Google Antigravity (Gemini): look, then act in one verified batch, guard rails in the code. [Page](https://julienpiron.fr/nexuswindows/antigravity/) | `Python` `MCP` `Win32/UIA` |
 | [**NexusBrowser**](https://github.com/pironjulien/NexusBrowser) | The user's real Chrome driven by AI agents (Antigravity, Claude, Codex) in background tabs, through a local authenticated bridge and one MCP server. [Page](https://julienpiron.fr/nexusbrowser/) | `JavaScript` `Chrome CDP` `Python` |
 | [**nexus-plugins**](https://github.com/pironjulien/nexus-plugins) | Claude Code plugin marketplace: NexusAndroid, NexusWindows and NexusBrowser installed in one click, each server started from PyPI with uvx. | `Claude Code` `MCP` |
 | [**NexusAndroid**](https://github.com/pironjulien/NexusAndroid) | Android computer use over plain ADB: one MCP server shared by Claude Code, Codex and Antigravity; no root, no app on the phone. [Page](https://julienpiron.fr/nexusandroid/) | `Python` `MCP` `ADB` |
-| [**MX Keypad AI Agents**](https://github.com/pironjulien/mx-keypad-ai-agents) | Claude, Codex and Antigravity as animated pixel-art characters on the Logitech MX Creative Keypad: agent states, quota gauges, one press to the conversation that needs you. [Page](https://julienpiron.fr/mxkeypad/) | `C# .NET 10` `Logi Plugin` |
+| [**NexusKeypad**](https://github.com/pironjulien/NexusKeypad) | Claude, Codex and Antigravity as animated pixel-art characters on the Logitech MX Creative Keypad: agent states, quota gauges, one press to the conversation that needs you. [Page](https://julienpiron.fr/nexuskeypad/) | `C# .NET 10` `Logi Plugin` |
+| [**NexusRelay**](https://github.com/pironjulien/NexusRelay) | Shared room for Claude, Codex and Antigravity on one Windows PC: each agent woken in its own desktop app, through one local MCP daemon. Experimental. [Page](https://julienpiron.fr/nexusrelay/) | `Python` `MCP` `PowerShell` |
+| [**NexusAGYmail**](https://github.com/pironjulien/NexusAGYmail) | Gmail for Google Antigravity over the official Gmail API: sends only after your yes, no permanent deletion. [Page](https://julienpiron.fr/nexusagymail/) | `Python` `MCP` `Gmail API` |
 
 **Other projects**
 
