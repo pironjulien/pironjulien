@@ -2,7 +2,7 @@
 
 # Julien Piron
 
-### FondIAteur • IAdorateur · French AI builder: open-source computer use for Claude, Codex & Antigravity
+### FondIAteur • IAdorateur · French AI builder: agents, tools, apps, benchmarks and essays with Claude, Codex & Antigravity
 
 [![PSI Studio](https://img.shields.io/badge/PSI_Studio-julienpiron.com-6366f1?style=for-the-badge&logo=anthropic&logoColor=white)](https://julienpiron.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-julienpiron.fr-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://julienpiron.fr)
@@ -10,17 +10,6 @@
 [![X](https://img.shields.io/badge/X-@julienpironfr-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/julienpironfr)
 
 </div>
-
----
-
-### Journey
-
-| When | Chapter | Milestones |
-| :--- | :--- | :--- |
-| **2024** | Early intuitions | [Home-hosted LLMs](https://x.com/julienpironfr/status/1873415212658995246) (posted 29/12/2024, before NVIDIA DIGITS was announced) · ["The North"](https://x.com/julienpironfr/status/1823815577498218986), a personal assistant that remembers everything (14/08/2024) · [a light signal on a Samsung phone's LEDs](https://x.com/julienpironfr/status/1816457464646176915) (25/07/2024), which became [ShyMeet](https://julienpiron.fr/shymeet/) |
-| **Dec. 2025** | The AI that changes a life, and the essays | ["AI saved me"](https://x.com/julienpironfr/status/2001243146789794069) (17/12/2025) · ["The Hallucination Paradox"](https://x.com/julienpironfr/status/2005048946306285582) and ["AI does not lie, it dreams"](https://x.com/julienpironfr/status/2005052463930638681) (27/12/2025) · ["The End of Ego"](https://x.com/julienpironfr/status/2005293149732712873) and ["The Cure is Speed"](https://x.com/julienpironfr/status/2005293572162048394) (28/12/2025) · [the AGI bankruptcy risk](https://x.com/julienpironfr/status/2007014454253207956) (02/01/2026) |
-| **Jan.–June 2026** | The hackathon and the flaws | [Trinity](https://julienpiron.fr/trinity/): ["Meet Trinity"](https://x.com/julienpironfr/status/2009765318638420107) (09/01/2026), ["The Hive"](https://x.com/julienpironfr/status/2014872162411204837) (24/01/2026), ["Mission Complete"](https://x.com/julienpironfr/status/2019562779267481987) (06/02/2026) · three red-teaming routes: [Discovery](https://x.com/julienpironfr/status/2048498427936571782), [Dialog](https://x.com/julienpironfr/status/2048779828535419105), [Hive Swarm](https://x.com/julienpironfr/status/2049178892313690561) (26–28/04/2026) · [a token glitch in Codex reported to OpenAI](https://x.com/julienpironfr/status/2064034421464850730) (08/06/2026) |
-| **June–Oct. 2026** | The builder | [Gemini 3.8 ahead of Astra Ultra](https://x.com/julienpironfr/status/2096351207568863449) (05/09/2026) · [FoldGPT](https://julienpiron.fr/foldgpt/), [Debaite](https://julienpiron.fr/debaite/), [NexusWpp](https://julienpiron.fr/nexuswpp/), [AIBIAS v2](https://julienpiron.fr/aibias/), [ShyMeet](https://julienpiron.fr/shymeet/), then the Nexus family: [NexusAndroid](https://julienpiron.fr/nexusandroid/), [NexusWindows](https://julienpiron.fr/nexuswindows/) (Claude, Codex, Antigravity), [NexusBrowser](https://julienpiron.fr/nexusbrowser/), [MX Keypad AI Agents](https://julienpiron.fr/mxkeypad/) |
 
 ---
 
