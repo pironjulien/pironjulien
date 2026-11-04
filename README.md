@@ -7,8 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-julienpiron.fr-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://julienpiron.fr)
 [![X](https://img.shields.io/badge/X-@julienpironfr-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/julienpironfr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julien_Piron-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-piron-a6a011373/)
-[![YouTube](https://img.shields.io/badge/YouTube-@pironjulien-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pironjulien)
-
 [![PSI Studio](https://img.shields.io/badge/PSI_Studio-julienpiron.com-6366f1?style=for-the-badge&logo=anthropic&logoColor=white)](https://julienpiron.com)
 [![Piron AI](https://img.shields.io/badge/Piron_AI-piron--ai.com-111827?style=for-the-badge&logo=anthropic&logoColor=white)](https://piron-ai.com)
 
