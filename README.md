@@ -83,25 +83,9 @@ while you keep working.** One native engine per product, every action read back,
 <tr>
 <td valign="top">
 
-<a href="https://github.com/pironjulien/NexusAGYmail"><img src="https://julienpiron.fr/nexusagymail/assets/nexusagymail-mark.svg" width="40" align="left" alt=""></a>
-**[NexusAGYmail](https://github.com/pironjulien/NexusAGYmail)** · [page](https://julienpiron.fr/nexusagymail/)<br>
-<sub>Gmail for Google Antigravity over the official Gmail API: sends only after your yes, no permanent deletion. `C#` `MCP`</sub>
-
-</td>
-<td valign="top">
-
 <a href="https://github.com/pironjulien/NexusFree"><img src="https://julienpiron.fr/nexusfree/assets/nexusfree-mark.svg" width="40" align="left" alt=""></a>
 **[NexusFree](https://github.com/pironjulien/NexusFree)** · [page](https://julienpiron.fr/nexusfree/)<br>
 <sub>Administrator and SYSTEM commands for your AIs on Windows, without a UAC prompt each time. One MCP server, one account. `C#` `MCP`</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-<a href="https://github.com/pironjulien/NexusInDesign"><img src="https://julienpiron.fr/nexusindesign/assets/nexusindesign-mark.svg" width="40" align="left" alt=""></a>
-**[NexusInDesign](https://github.com/pironjulien/NexusInDesign)** · [page](https://julienpiron.fr/nexusindesign/)<br>
-<sub>A secure MCP and UXP bridge between your AIs and Adobe InDesign, with verified backups and layout workflows. `MCP` `UXP`</sub>
 
 </td>
 <td valign="top">
